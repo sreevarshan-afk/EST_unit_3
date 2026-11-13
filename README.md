@@ -727,8 +727,6 @@ for _ in range(t):
     print("Prime" if is_prime(n) else "Not prime")
 ```
 
-## Unit 4 – Problems on Maths
-
 ### 36. Restaurant – GCD
 
 ```python
